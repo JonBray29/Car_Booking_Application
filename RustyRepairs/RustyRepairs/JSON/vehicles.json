@@ -1,0 +1,11 @@
+[
+  {
+    "VehicleID": 1,
+    "CustomerID": 3,
+    "Make": "g",
+    "Model": "g",
+    "Registration": "gg",
+    "Colour": "g",
+    "Notes": "g"
+  }
+]

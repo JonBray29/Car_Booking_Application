@@ -1,0 +1,32 @@
+[
+  {
+    "CustomerId": "1",
+    "Title": "Mr",
+    "FirstName": "Joe",
+    "LastName": "Smith",
+    "Address": "8 North Hill",
+    "PhoneNumber": "01752333666",
+    "Email": "joe@customer.com",
+    "DepositStatus": true
+  },
+  {
+    "CustomerId": "2",
+    "Title": "Miss",
+    "FirstName": "Jane",
+    "LastName": "Dyer",
+    "Address": "43 West Street",
+    "PhoneNumber": "01752325632",
+    "Email": "Jane@customer.com",
+    "DepositStatus": false
+  },
+  {
+    "CustomerId": "3",
+    "Title": "Mrs",
+    "FirstName": "Chloe",
+    "LastName": "Myers",
+    "Address": "32 West Street",
+    "PhoneNumber": "017523685586",
+    "Email": "Chloe@customer.com",
+    "DepositStatus": false
+  }
+]
